@@ -16,7 +16,7 @@
         "providerId",
         "userScreenName",
         "email",
-        "nonceerrer"
+        "nonce"
     ],
     "userInfoProperties": [
         "data",
